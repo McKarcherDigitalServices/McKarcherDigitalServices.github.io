@@ -252,7 +252,7 @@ $(document).on('ready', function () {
 						loop: true,
 						grabCursor: true,
 						centeredSlides: false,
-						autoplay: 5000,
+						autoplay: 10000,
 						autoplayDisableOnInteraction: false,
 						slidesPerView: 2,
 						spaceBetween: 16,
